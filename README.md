@@ -10,11 +10,14 @@ Cê tá bem?!
 - 👩‍💻 Em transição de carreira e me aventurando nesse mundo que é a programação.
 
 ## Algoritmo, me conecte com pessoas que amam tecnologia 
-[![linkedin](https://img.shields.io/badge/linkedin-0000CD?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/elaine-cerqueira-40a592186/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ElaineFCerqueira)
-
-[![GMAIL](https://img.shields.io/badge/GMAIL-0000CD?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/elaine-cerqueira-40a592186/)
+## Contatos:
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:elaine.edc@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 ## Habilidades
@@ -42,4 +45,4 @@ Cê tá bem?!
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElaineFCerqueira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ElaineFCerqueira/dio-lab-open-source)
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ElaineFCerqueira/ElaineFCerqueira/blob/output/github-contribution-grid-snake.svg)

@@ -45,8 +45,12 @@ Cê tá bem?!
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElaineFCerqueira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ElaineFCerqueira/dio-lab-open-source)
 
  <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
+        <img alt="Visitantes no perfil" 
+            src="https://widgetbite.com/stats/<ElaineFCerqueira>"/>  
+    </div>
+    
+<div align="center">
+        <img alt="Snake animation" 
+         src="https://raw.githubusercontent.com/gitElaineFCerqueira/gitrepo/output/snake.svg"/>
     </div>
 
-<img src="https://raw.githubusercontent.com/gitElaineFCerqueira/gitrepo/output/snake.svg" alt="Snake animation" />

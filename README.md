@@ -47,7 +47,7 @@ Cê tá bem?!
 ## Visitas ao perfil:
  <div align="">
         <img alt="Visitantes no perfil" 
-            src="https://widgetbite.com/stats/<ElaineFCerqueira>"/>  
+            src="https://widgetbite.com/stats/<github-ElaineFCerqueira>"/>   
     </div>
     
 <div align="center">

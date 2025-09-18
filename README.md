@@ -45,7 +45,7 @@ Cê tá bem?!
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElaineFCerqueira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ElaineFCerqueira/dio-lab-open-source)
 
 ## Visitas ao perfil:
- <div align="center">
+ <div align="">
         <img alt="Visitantes no perfil" 
             src="https://widgetbite.com/stats/<ElaineFCerqueira>"/>  
     </div>

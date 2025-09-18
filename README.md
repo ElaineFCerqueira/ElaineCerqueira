@@ -30,6 +30,7 @@ Cê tá bem?!
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://i.pinimg.com/736x/ef/73/57/ef7357f8edafba5276df1698801ce94a.jpg" width="40" height="40"/> 
 ![Figma](https://i.pinimg.com/736x/ef/73/57/ef7357f8edafba5276df1698801ce94a.jpg)
 https://br.pinterest.com/pin/116038127885722956/
 

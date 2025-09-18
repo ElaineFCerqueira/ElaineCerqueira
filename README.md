@@ -30,7 +30,7 @@ Cê tá bem?!
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-
+https://br.pinterest.com/pin/116038127885722956/
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaineFCerqueira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
